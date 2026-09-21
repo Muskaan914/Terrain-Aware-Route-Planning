@@ -1,0 +1,4 @@
+Route,Distance_km,Elevation_gain_m,Elevation_loss_m,Average_terrain_cost,Maximum_cell_cost,Total_traversal_cost
+Unconstrained Terrain-Aware,14.288,2966.0,1748.0,2.768,4.797,1226.25
+45° Slope-Constrained,18.057,2499.0,1281.0,2.397,4.345,1280.15
+45° + No-Go Constrained,18.057,2499.0,1281.0,2.397,4.345,1280.15

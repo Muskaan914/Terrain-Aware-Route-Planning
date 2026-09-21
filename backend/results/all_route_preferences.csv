@@ -1,0 +1,5 @@
+Preference,Distance_km,Elevation_gain_m,Elevation_loss_m,Average_terrain_cost,Maximum_terrain_cost
+Shortest,14.872,2860.0,1642.0,3.336,4.399
+Terrain-Friendly,18.089,2511.0,1293.0,2.395,4.345
+Lowest Elevation Gain,15.109,2461.0,1243.0,3.367,4.399
+Balanced,15.705,2735.0,1517.0,2.794,4.399
